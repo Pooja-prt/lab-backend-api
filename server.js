@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 // MongoDB Atlas Connection
 mongoose.connect(
-    'mongodb+srv://2312033:replace_here_with_encoded_password@cluster0.dtsu4pr.mongodb.net/labdb?retryWrites=true&w=majority&appName=Cluster0',
+   'mongodb+srv://2312033:234567-20@cluster0.dtsu4pr.mongodb.net/labdb?retryWrites=true&w=majority&appName=Cluster0',
     {
         useNewUrlParser: true,
         useUnifiedTopology: true
